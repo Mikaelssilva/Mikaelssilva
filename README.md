@@ -1,4 +1,7 @@
 # 👨‍💻 Mikael Silva
+
+`Machine Learning Engineer`
+
 Hi, I'm Mikael Silva, a Computer Engineering student at the [University of Pernambuco (UPE)](https://www.instagram.com/upeoficial_/) currently residing in Brazil. Driven by curiosity, I'm deeply invested in __AI__ and leveraging __Machine Learning__ to tackle real-world problems.
 
 <p align="left">
