@@ -15,7 +15,7 @@ Hi, I'm Mikael Silva, a Computer Engineering student at the [University of Perna
     <a href="https://github.com/Mikaelssilva?tab=followers">
         <img 
             alt="Followers" 
-            title="Follow me on GitHub" 
+            title="GitHub followers" 
             src="https://custom-icon-badges.demolab.com/github/followers/Mikaelssilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
